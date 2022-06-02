@@ -1,0 +1,20 @@
+{
+  "movie": "Forrest Gump",
+  "TVseries": [
+    "Stranger Things",
+    "Futurama",
+    "Monty Python’s Flying Circus",
+    "Twin Peaks",
+    "The Office (US)",
+    "Firefly",
+    "Gravity Falls"
+  ],
+  "dish": "potato-based gratin",
+  "season": "summer",
+  "countries": [
+    "Ireland",
+    "Japan",
+    "New Zealand",
+    "Montenegro"
+  ]
+}
