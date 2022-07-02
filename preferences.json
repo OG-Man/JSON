@@ -1,5 +1,5 @@
 {
-  "movie": "Forrest Gump",
+  "movie":"Forrest Gump",
   "TVseries": [
     "Stranger Things",
     "Futurama",
@@ -9,8 +9,8 @@
     "Firefly",
     "Gravity Falls"
   ],
-  "dish": "potato-based gratin",
-  "season": "summer",
+  "dish":"potato-based gratin",
+  "season":"summer",
   "countries": [
     "Ireland",
     "Japan",
